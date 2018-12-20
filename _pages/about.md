@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+SUMMARY OF QUALIFICATIONS
+Biochemistry with over eight years of experience in the field and expertise/skills in:
+Adept at demonstrating proficiency in biochemical and bioinformatic science
+
+
 PERSONAL SUMMARY
 For my graduate studies, I have worked on sperm-specific Na+/H+ exchanger (sNHE), a crucial protein for fertilization due to its critical role in sperm motility regulation. The sNHE has two regulatory domains: voltage sensor domain and cyclic nucleotide binding domain (CNBD). In spite of the importance of sNHE, there is no established method to express the entire protein in any heterologous expression systems. Therefore, I tried biochemical characterization of the isolated CNBD of mouse sNHE expressed in E. coli and HEK293 cell culture. Although I prepared more than 10 constructions of the recombinant proteins tagged with a fluorescence protein, all my efforts were in vain since I could not obtain any soluble proteins. However, I established a novel and user-friendly binding assay between a CNBD and cyclic AMP based on FRET (Fluorescence Resonance Energy Transfer). I believe that our method becomes an important example to study molecular interactions between small ligand tagged with a chemically synthesized fluorophore and protein tagged with fluorescence protein using FRET. Namely, our method can be applied for the study of other important molecular interactions such as ligand-receptor, antigen-antibody, DNA-protein.
 As an alternative project in my Ph.D. studies, I performed comparative genetic analysis of sNHE using publically available eukaryote genome information and I discovered an apparent coevolution among sNHE, CatSper (sperm-specific Ca2+ channel) and sAC (soluble adenylyl cyclase) in Metazoa. This finding suggests the functional coupling among the three proteins as proposed in mammals and also proposes that the three sperm-specific proteins form a prototype machinery of sperm flagellar regulation in the eukaryotes. Our finding and proposal should give a significant contribution to understanding the mechanism of sperm motility regulation in Metazoa.
