@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 
-* Universidad Nacional Autónoma de México </br>
+* Universidad Nacional Autónoma de México <br/>
 _Ph. D._, Biochemical sciences, December 2018
 Concentration in sperm-specific proteins involved in fertilization
 Relevant Coursework: Advance R and Bioconductor, Parallel and programming optimization, Fluorescence spectroscopy
