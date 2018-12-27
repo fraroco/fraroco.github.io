@@ -52,6 +52,13 @@ Skills
   *Molecular Biology
   *Protein biochemistry
 
+Pricipal training
+=======
+*Theoretical and practical course in Python. Universidad Nacional Autónoma de México. August 2016.
+*Theoretical symposium on “Bioinformatics”. Secretaría de Ciencia e Innovación tecnológica.  Estado de Morelos. 2016.
+*Course of “Galaxy: RNA seq and Chip seq”. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2016.
+*Advance course of high level computational skill in parallelization and optimization in programming “Escuela de computación de alto rendimiento”. Buenos Aires Argentina (2017)
+*Course of “Advance R focused on Bioconductor”. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2018.
 
 Publications
 ======
@@ -74,3 +81,18 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Additional training
+======
+*Resident as student the in simulation in silico laboratory. Dra. Nina Pastor. Universidad Autónoma del Estado de Morelos. January-May 2006.
+*English course for Kent University. Summer 2006
+*Theoretical-practical workshop of Molecular Biology. Universidad Autónoma del Estado de Morelos, Morelos-México. Summer 2006.
+*Theoretical-practical workshop of Biochemistry. Universidad Nacional Autónoma de México, Morelos-México. Summer 2006.
+*Theoretical-practical Workshop of Genetics. Universidad Autónoma del Estado de Morelos, Morelos-México. Winter, 2006
+*Theoretical-practical workshop Cellular Biology. Instituto de Biotecnología. Universidad Nacional Autónoma de México. Morelos-México. January-July 2007.
+*Theoretical-practical International course “Cautivery reproduction: An alternative for the preservation of ornamental and birds”. Universidad Autónoma del Estado de Morelos, Morelos-México. August 2008.
+*Theoretical-practical workshop  of Developmental Biology. Instituto de Biotecnología. Universidad Nacional Autónoma de México. Morelos-México. Summer 2008.
+*Japan-Mexico workshop on "Pharmacobiology" and "Nanobiology". Universidad Nacional Autónoma de México, Ciudad de México-México. 25-27 February 2008.
+*Theoretical-practical workshop of Advanced microscopy. Universidad Nacional Autónoma de México. Enero-Febrero 2010.
+*Course theoretical-practical of simFCS. Universidad Nacional Autónoma de México. May 2014.
+*Advance course of entrepreneurship TrepCamp. Silicon-Valley California. Summer 2014.
