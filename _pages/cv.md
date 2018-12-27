@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
+======
 
 * Universidad Nacional Autónoma de México <br/>
 _Ph. D._, Biochemical sciences, December 2018
