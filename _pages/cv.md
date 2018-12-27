@@ -24,7 +24,7 @@ Thesis: Biochemical study of the nucel sperm-specific Na+/H+ exchange in mammal 
 
 * Universidad Autónoma del Estado de Morelos
 _B. Sc._, Biochemical sciences, 2009
-Thesis: Membrane insertion study of the Cry1A toxins from Bacillus thuringiensis using fluorescence spectroscopy
+Thesis: Membrane insertion study of the Cry1A toxins from -Bacillus thuringiensis_ using fluorescence spectroscopy
 
 Work experience
 ======
