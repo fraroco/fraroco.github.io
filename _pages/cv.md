@@ -20,7 +20,7 @@ Thesis: Biochemical and phylogenetic study of the sperm-specific Na+/H+ exchange
 * Universidad Nacional Autónoma de México
 _M. Sc._, Biochemical sciences, 2012
 Concentration in sperm-specific proteins involved in fertilization
-Thesis: Biochemical study of the nucel sperm-specific Na+/H+ exchange in mammal sperm
+Thesis: Biochemical study of the cyclic nucleotide binding domain of the sperm-specific Na+/H+ exchange in mammal sperm
 
 * Universidad Autónoma del Estado de Morelos
 _B. Sc._, Biochemical sciences, 2009
