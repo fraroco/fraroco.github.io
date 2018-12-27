@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 
-* Universidad Nacional Autónoma de México <br/>
-_Ph. D._, Biochemical sciences, December 2018
-Concentration in sperm-specific proteins involved in fertilization
-Relevant Coursework: Advance R and Bioconductor, Parallel and programming optimization, Fluorescence spectroscopy
+* _Ph. D._, Biochemical sciences, December 2018 <br/>
+Universidad Nacional Autónoma de México <br/>
+Concentration in sperm-specific proteins involved in fertilization <br/>
+Relevant Coursework: Advance R and Bioconductor, Parallel and programming optimization, Fluorescence spectroscopy <br/>
 Thesis: Biochemical and phylogenetic study of the sperm-specific Na+/H+ exchange in mammal sperm
 
-* Universidad Nacional Autónoma de México
-_M. Sc._, Biochemical sciences, 2012
-Concentration in sperm-specific proteins involved in fertilization
+* _M. Sc._, Biochemical sciences, 2012 <br/>
+Universidad Nacional Autónoma de México <br/>
+Concentration in sperm-specific proteins involved in fertilization <br/>
 Thesis: Biochemical study of the cyclic nucleotide binding domain of the sperm-specific Na+/H+ exchange in mammal sperm
 
-* Universidad Autónoma del Estado de Morelos
-_B. Sc._, Biochemical sciences, 2009
+* _B. Sc._, Biochemical sciences, 2009 <br/>
+Universidad Autónoma del Estado de Morelos <br/>
 Thesis: Membrane insertion study of the Cry1A toxins from -Bacillus thuringiensis_ using fluorescence spectroscopy
 
 Work experience
@@ -41,6 +41,7 @@ Work experience
 
 Skills
 ======
+
 *_Computer skills_:
   *Bash scripting
   *UNIX/Linux utilities user
@@ -55,6 +56,7 @@ Skills
 
 Pricipal training
 =======
+
 *Theoretical and practical course in Python. Universidad Nacional Autónoma de México. August 2016.
 *Theoretical symposium on “Bioinformatics”. Secretaría de Ciencia e Innovación tecnológica.  Estado de Morelos. 2016.
 *Course of “Galaxy: RNA seq and Chip seq”. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2016.
@@ -85,6 +87,7 @@ Service and leadership
 
 Additional training
 ======
+
 *Resident as student the in simulation in silico laboratory. Dra. Nina Pastor. Universidad Autónoma del Estado de Morelos. January-May 2006.
 *English course for Kent University. Summer 2006
 *Theoretical-practical workshop of Molecular Biology. Universidad Autónoma del Estado de Morelos, Morelos-México. Summer 2006.
