@@ -31,9 +31,9 @@ Work experience
 ======
 
 * Doctoral stay,_Molecular and Genomic Evolution Laboratory, Ecology and Evolutionary Biology Department, University of Michigan_, Ann Arbor, MI. May - July 2016
-  * Evolutionary analysis of the sperm-specific Na<sub>+</sub>/H<sub>+</sub> exchanger and the soluble adenylyl cyclase of Metazoa and non-Metazoa species
-  * Pseudogenization analysis of the sperm-specific Na<sub>+</sub>/H<sub>+</sub> exchanger of mouse
-  * Coevolution analysis between the sperm-specific Na<sub>+</sub>/H<sub>+</sub> exchanger and the soluble adenylyl cyclase of Metazoa species
+  * Evolutionary analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa and non-Metazoa species
+  * Pseudogenization analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger of mouse
+  * Coevolution analysis between the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa species
 
 * _Secretaría de Educación Pública_ Mexico City, Mexico. Aug 2010 – Dec 2010
   * Reviewing the contents of textbooks Sciences III with emphasis in Chemistry for high school.
@@ -45,7 +45,7 @@ Skills
 * _Computer skills_:
   * Bash scripting
   * UNIX/Linux utilities user
-  * Programing languages: R, Python, C, git and MPI
+  * Programming languages: R, Python, C, git and MPI
   * IDEs: MEGAcc, Blast, RStudio and Anaconda
 
 * _Laboratory skills_:
@@ -88,7 +88,7 @@ Service and leadership
   * Bioinformatic software development community
   * sperm physiology
   * hobby projects with friends
-  * Personal projects 
+  * Personal projects
 
 Additional training
 ======
