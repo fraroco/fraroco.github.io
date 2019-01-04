@@ -83,7 +83,12 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 4 different slack teams
+  * Bioc-community
+  * Bioinformatic software development community
+  * sperm physiology
+  * hobby projects with friends
+  * Personal projects 
 
 Additional training
 ======
