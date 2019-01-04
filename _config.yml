@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Francisco Romero"
   avatar           : "profile.png"
-  bio              : "<div style="text-align: justify"> Ph.D. from UNAM, Data scientist. Biochemistry and Evolution rules my life </div>"
+  bio              : "<div style="text-align: justify">Ph.D. from UNAM, Data scientist. Biochemistry and Evolution rules my life </div>"
   location         : "Instituto de Biotecnología, UNAM"
   employer         :
   googlescholar    : "https://scholar.google.com.mx/citations?user=3PvnDYEAAAAJ&hl=en"
