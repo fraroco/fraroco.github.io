@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francisco Romero"
 title_separator          : "-"
 name                     : &name "Francisco Romero"
-description              : &description "Scientific Ph.D. at UNAM"
+description              : &description "Ph.D. at UNAM"
 url                      : https://fraroco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fraroco/fraroco.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Francisco Romero"
   avatar           : "profile.png"
-  bio              : "Ph.D. from UNAM, Data scientist. Biochemistry and Evolution rules my life"
+  bio              : "Ph.D. from UNAM. Data Sciences. Biochemistry rules my life"
   location         : "Instituto de Biotecnología, UNAM"
   employer         :
   googlescholar    : "https://scholar.google.com.mx/citations?user=3PvnDYEAAAAJ&hl=en"
