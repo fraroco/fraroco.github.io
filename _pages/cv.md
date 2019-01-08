@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: justify">
+  <div markdown = "1">
+
 Education
 ======
 * _Ph. D._, Biochemical sciences, December 2018 <br/>
@@ -102,4 +104,5 @@ Additional training
 * Theoretical-practical workshop of Advanced microscopy. Universidad Nacional Autónoma de México. Enero-Febrero 2010.
 * Course theoretical-practical of simFCS. Universidad Nacional Autónoma de México. May 2014.
 * Advance course of entrepreneurship TrepCamp. Silicon-Valley California. Summer 2014.
+  </div>
 </div>
