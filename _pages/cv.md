@@ -12,7 +12,6 @@ redirect_from:
 <div style="text-align: justify">
 Education
 ======
-
 * _Ph. D._, Biochemical sciences, December 2018 <br/>
 Universidad Nacional Autónoma de México <br/>
 Concentration in sperm-specific proteins involved in fertilization <br/>
@@ -30,7 +29,6 @@ Thesis: Membrane insertion study of the Cry1A toxins from -Bacillus thuringiensi
 
 Work experience
 ======
-
 * Doctoral stay,_Molecular and Genomic Evolution Laboratory, Ecology and Evolutionary Biology Department, University of Michigan_, Ann Arbor, MI. May - July 2016
   * Evolutionary analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa and non-Metazoa species
   * Pseudogenization analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger of mouse
@@ -42,7 +40,6 @@ Work experience
 
 Skills
 ======
-
 * _Computer skills_:
   * Bash scripting
   * UNIX/Linux utilities user
@@ -56,8 +53,7 @@ Skills
   * Protein biochemistry
 
 Principal training
-=======
-
+======
 * Theoretical and practical course in Python. Universidad Nacional Autónoma de México. August 2016.
 * Theoretical symposium on “Bioinformatics”. Secretaría de Ciencia e Innovación tecnológica.  Estado de Morelos. 2016.
 * Course of “Galaxy: RNA seq and Chip seq”. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2016.
