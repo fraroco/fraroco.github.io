@@ -27,7 +27,7 @@ Thesis: Biochemical study of the cyclic nucleotide binding domain of the sperm-s
 
 * _B. Sc._, Biochemical sciences, 2009 <br/>
 Universidad Autónoma del Estado de Morelos <br/>
-Thesis: Membrane insertion study of the Cry1A toxins from -Bacillus thuringiensis_ using fluorescence spectroscopy
+Thesis: Membrane insertion study of the Cry1A toxins from _Bacillus thuringiensis_ using fluorescence spectroscopy
 
 Work experience
 ======
