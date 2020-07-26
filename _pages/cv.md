@@ -31,10 +31,19 @@ Thesis: Membrane insertion study of the Cry1A toxins from -Bacillus thuringiensi
 
 Work experience
 ======
+* Data Scientist, _Arca Continental_, Monterrey. Nuevo León. México. January 2019 - present
+  * **Tools and Languages: Scala, SQL, Spark, sparkR, pySpark, Azure DevOs, TFS, Delta.**
+  * Leading the main project about portfolio optimization in collaboration with the Massachusetts Institute of Technology.
+  * Modeling documentation to answer the fundamental question, analyzing the data and collecting important information.
+  * Coordinating the development of the pilot and creating the key performance indicators for further evaluation.
+  * Main activities in the role: Data profiling, Data integration, Data importation, and Data interpretation, developing analytic technologies, including machine learning and predictive modeling.
+
+
 * Doctoral stay,_Molecular and Genomic Evolution Laboratory, Ecology and Evolutionary Biology Department, University of Michigan_, Ann Arbor, MI. May - July 2016
-  * Evolutionary analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa and non-Metazoa species
-  * Pseudogenization analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger of mouse
-  * Coevolution analysis between the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa species
+  * **Tools and Languages: R, python, UNIX/Linux utility user, Bash scripting.**
+  * Evolutionary analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa and non-Metazoa species.
+  * Pseudogenization analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger of mouse.
+  * Coevolution analysis between the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa species.
 
 * _Secretaría de Educación Pública_ Mexico City, Mexico. Aug 2010 – Dec 2010
   * Reviewing the contents of textbooks Sciences III with emphasis in Chemistry for high school.
@@ -42,17 +51,25 @@ Work experience
 
 Skills
 ======
-* _Computer skills_:
-  * Bash scripting
-  * UNIX/Linux utilities user
-  * Programming languages: R, Python, C, git and MPI
-  * IDEs: MEGAcc, Blast, RStudio and Anaconda
 
-* _Laboratory skills_:
-  * Spectroscopy fluorescence
-  * Microbiology and cell culture
-  * Molecular Biology
-  * Protein biochemistry
+* _Computer skills:_
+  * Bash scripting
+  * UNIX/Linux utility user
+  * Databricks.
+  * Programming languages: R, Python, Scala, SPARK, SQL and git 
+  TFS
+  * IDEs: Microsoft azure, AWS, Gitkraken, VisualStudio
+
+* _Statistical skills:_
+  * Parametric and non-parametric statistics
+  * Statistical test like Type I error, Type II error,  ANOVA, etc
+  * A/B test, logistic regression, random forest, etc
+  * Data Analysis: Clustering, significance data determination, quality data determination etc
+
+Awards
+======
+  * Banco Santander - TrepCamp 2014 award
+F  * alling walls Berlin 2016 award
 
 Principal training
 ======
