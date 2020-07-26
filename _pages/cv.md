@@ -73,11 +73,15 @@ F  * alling walls Berlin 2016 award
 
 Principal training
 ======
-* Theoretical and practical course in Python. Universidad Nacional Autónoma de México. August 2016.
-* Theoretical symposium on “Bioinformatics”. Secretaría de Ciencia e Innovación tecnológica.  Estado de Morelos. 2016.
-* Course of “Galaxy: RNA seq and Chip seq”. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2016.
-* Advance course of high level computational skill in parallelization and optimization in programming “Escuela de computación de alto rendimiento”. Buenos Aires Argentina (2017)
-* Course of “Advance R focused on Bioconductor”. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2018.
+* **Certification in Free Customer/Partner Introductory Learning**. Databricks Academy. 2020.
+Cloud Computing. Google Active. 2020.
+* **Diploma in financial education**. Comisión nacional para la protección y defensa de los usuarios de servicios financieros. December 2019.
+* **Data science: Probability**. Harvard University. September 2019.
+* **Course of “Advance R focused on Bioconductor”**. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2018.
+* **Advance course of high level computational skill in parallelization and optimization in programming “Escuela de computación de alto rendimiento”**. Buenos Aires Argentina. August 2016.
+* **Course of “Galaxy: RNA seq and Chip seq”**. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2016.
+* **Theoretical symposium on “Bioinformatics”**. Secretaría de Ciencia e Innovación tecnológica.  Estado de Morelos. 2016.
+* **A theoretical and practical course in Python**. Universidad Nacional Autónoma de México. August 2016.
 
 Publications
 ======
