@@ -69,7 +69,7 @@ Skills
 Awards
 ======
   * Banco Santander - TrepCamp 2014 award
-F  * alling walls Berlin 2016 award
+  * Falling walls Berlin 2016 award
 
 Principal training
 ======
