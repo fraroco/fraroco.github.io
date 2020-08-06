@@ -14,20 +14,19 @@ redirect_from:
 
 Education
 ======
-* _Ph. D._, Biochemical sciences, December 2018 <br/>
+* _Ph. D._ in Sciences, December 2018 <br/>
 Universidad Nacional Autónoma de México <br/>
-Concentration in sperm-specific proteins involved in fertilization <br/>
-Relevant Coursework: Advance R and Bioconductor, Parallel and programming optimization, Fluorescence spectroscopy <br/>
-Thesis: Biochemical and phylogenetic study of the sperm-specific Na+/H+ exchange in mammal sperm
+Concentration in genomic data wrangling, analysis, and interpretation for sperm-specific proteins involved in fertilization <br/>
+Relevant Coursework: Advanced R and Statistical analysis, Statistics, Parallel and Programming optimization, Data interpretation and reproducibility
 
-* _M. Sc._, Biochemical sciences, 2012 <br/>
+* _M. Sc._, in Sciences, 2012 <br/>
 Universidad Nacional Autónoma de México <br/>
-Concentration in sperm-specific proteins involved in fertilization <br/>
-Thesis: Biochemical study of the cyclic nucleotide binding domain of the sperm-specific Na+/H+ exchange in mammal sperm
+Concentration in genomic data wrangling, analysis, and interpretation for sperm-specific proteins involved in fertilization <br/>
+Relevant Coursework: Python programming and Statistics <br/>
 
-* _B. Sc._, Biochemical sciences, 2009 <br/>
+* _B. Sc._ in Sciences, 2009 <br/>
 Universidad Autónoma del Estado de Morelos <br/>
-Thesis: Membrane insertion study of the Cry1A toxins from _Bacillus thuringiensis_ using fluorescence spectroscopy
+Relevant Coursework: Mathematics, Physics and programming <br/>
 
 Work experience
 ======
