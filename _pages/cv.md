@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculim Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 <div style="text-align: justify">
   <div markdown = "1">
 
-_Education_
+Education
 ======
 * _Ph. D._ in Sciences, December 2018 <br/>
 Universidad Nacional Autónoma de México <br/>
