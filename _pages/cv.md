@@ -12,7 +12,7 @@ redirect_from:
 <div style="text-align: justify">
   <div markdown = "1">
 
-Education
+_Education_
 ======
 * _Ph. D._ in Sciences, December 2018 <br/>
 Universidad Nacional Autónoma de México <br/>
