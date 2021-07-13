@@ -12,7 +12,7 @@ redirect_from:
 
 ## SUMMARY OF QUALIFICATIONS
 
-_Data scientist with over eight years of experience in the field and expertise/skills in:_
+_Data scientist with over nine years of experience in the field and expertise/skills in:_
 * All phases of data science, from initial discovery through cleaning,  model selection, validation, deployment and to share the analysis for all kind of audience
 * Adept at demonstrating proficiency in understanding raw data behavior and in to integrate structured and unstructured data analysis
 * Statistical research such as modeling, clustering, data visualization, and segmentation
