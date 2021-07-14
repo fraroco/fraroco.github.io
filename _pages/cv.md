@@ -35,7 +35,7 @@ Work experience
   * Leading the main project about portfolio optimization in collaboration with the Massachusetts Institute of Technology.
   * Modeling documentation to answer the fundamental question, analyzing the data and collecting important information.
   * Coordinating the development of the pilot and creating the key performance indicators for further evaluation.
-  * Main activities in the role: Data profiling, Data integration, Data importation, and Data interpretation, developing analytic technologies, including machine learning and predictive modeling.
+  * Main activities in the role: **Data profiling, Data integration, Data importation, and Data interpretation, developing analytic technologies, including machine learning and predictive modeling.**
 
 
 * Doctoral stay,_Molecular and Genomic Evolution Laboratory, Ecology and Evolutionary Biology Department, University of Michigan_, Ann Arbor, MI. May - July 2016
@@ -55,7 +55,7 @@ Skills
   * Bash scripting
   * UNIX/Linux utility user
   * Databricks.
-  * Programming languages: R, Python, Scala, SPARK, SQL and git 
+  * **Programming languages: R, Python, Scala, SPARK, SQL and git**
   TFS
   * IDEs: Microsoft azure, AWS, Gitkraken, VisualStudio
 
@@ -63,17 +63,18 @@ Skills
   * Parametric and non-parametric statistics
   * Statistical test like Type I error, Type II error,  ANOVA, etc
   * A/B test, logistic regression, random forest, etc
-  * Data Analysis: Clustering, significance data determination, quality data determination etc
+  * **Data Analysis: Clustering, significance data determination, quality data determination etc**
 
 Awards
 ======
   * Banco Santander - TrepCamp 2014 award
   * Falling walls Berlin 2016 award
+  * Sistema Nacional de Investigadores - CONACYT 2019
 
 Principal training
 ======
-* **Certification in Free Customer/Partner Introductory Learning**. Databricks Academy. 2020.
-Cloud Computing. Google Active. 2020.
+* **Certification in Customer/Partner Introductory Learning**. Databricks Academy. 2020.
+* **Cloud Computing.** Google Active. 2020.
 * **Diploma in financial education**. Comisión nacional para la protección y defensa de los usuarios de servicios financieros. December 2019.
 * **Data science: Probability**. Harvard University. September 2019.
 * **Course of “Advance R focused on Bioconductor”**. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2018.
@@ -105,8 +106,7 @@ Service and leadership
 * Currently signed in to 4 different slack teams
   * Bioc-community
   * Bioinformatic software development community
-  * sperm physiology
-  * hobby projects with friends
+  * Hobby projects with friends
   * Personal projects
 
 Additional training
