@@ -1,3 +1,4 @@
 _site/
 .venv/
 _portfolio/portfolio-2.html
+.DS_Store

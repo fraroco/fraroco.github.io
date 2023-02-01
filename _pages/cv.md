@@ -30,13 +30,24 @@ Relevant Coursework: Mathematics, Physics and programming <br/>
 
 Work experience
 ======
-* Data Scientist, _Arca Continental_, Monterrey. Nuevo León. México. January 2019 - present
+
+* Data Scientist and Data Engineer, _Bank Covalto (Before Credijusto)_. Ciudad de México, México. April 2021 - present
+  * **Tools and Languages: Python, GCP, git, SQL**
+  * Models implementation from decision science team
+  * Main activities in the role: **Managing the process from business decision science to the code implantation squad, in order to deployed the models in to production.**
+
+* Operational Data Analyst Leader, _Cornershop by Uber_. Ciudad de México, México. March 2020 - April 2021
+  * **Tools and Languages: OracleSQL, Pyhton, Tableau, Looker**
+  * Generation the major pilots on Mexico City, to reduce time, shopper costs and bags usage.
+  * Generation of reports for principal OKRs for shopper operation.
+  * Main activities in the role: **Managing data analyst, supervasing data integration and data quality, also interpreting the data and results in order to make some operational decisions.**
+
+* Data Scientist, _Arca Continental_, Monterrey. Nuevo León. México. January 2019 - March 2020
   * **Tools and Languages: Scala, SQL, Spark, sparkR, pySpark, Azure DevOs, TFS, Delta.**
   * Leading the main project about portfolio optimization in collaboration with the Massachusetts Institute of Technology.
   * Modeling documentation to answer the fundamental question, analyzing the data and collecting important information.
   * Coordinating the development of the pilot and creating the key performance indicators for further evaluation.
   * Main activities in the role: **Data profiling, Data integration, Data importation, and Data interpretation, developing analytic technologies, including machine learning and predictive modeling.**
-
 
 * Doctoral stay,_Molecular and Genomic Evolution Laboratory, Ecology and Evolutionary Biology Department, University of Michigan_, Ann Arbor, MI. May - July 2016
   * **Tools and Languages: R, python, UNIX/Linux utility user, Bash scripting.**
