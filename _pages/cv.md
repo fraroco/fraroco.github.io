@@ -11,9 +11,9 @@ redirect_from:
 
 <div class="exec-hero">
   <div class="exec-hero__eyebrow">Francisco Romero Corpus, Ph.D. &bull; Member of the National System of Investigators (SNI)</div>
-  <h2 class="exec-hero__title" style="border:none; padding:0; margin-top:0;">Data Platform &amp; AI Strategy Director</h2>
+  <h2 class="exec-hero__title" style="border:none; padding:0; margin-top:0;">Global SMB Senior Data Manager</h2>
   <p class="exec-hero__lead">
-    Strategic leader at the intersection of Data, Technology, and Risk Management with 12+ years of experience architecting scalable data ecosystems across fintech, logistics, and global e-commerce.
+    Strategic leader at the intersection of Data, Technology, and Risk Management with 12+ years of experience architecting scalable data ecosystems across global fintech, payments, and e-commerce.
   </p>
 </div>
 
@@ -21,22 +21,8 @@ redirect_from:
 
 <div class="exec-role">
   <div class="exec-role__header">
-    <h3 class="exec-role__title">Data Platform &amp; AI Strategy Director &mdash; <span class="exec-role__company">Traxion / Kamina</span></h3>
-    <span class="exec-role__meta">Jan 2025 &ndash; Present &bull; Mexico City</span>
-  </div>
-  <ul>
-    <li>Founding team member and data director of <strong>Kamina</strong>, modernizing transport logistics in Mexico from 0-to-1 (dispatch through billing &amp; reconciliation) and launching a customized credit solution for freight transport companies leveraging proprietary data.</li>
-    <li><strong>Complex Project Orchestration:</strong> Directing the strategic design and execution of the corporate data core, ensuring 99.9% availability for critical SaaS logistics operations and <em>de novo</em> CMS creation.</li>
-    <li><strong>End-to-End Fintech Architecture:</strong> Managed the comprehensive data platform and credit framework architecture for <strong>Kamina (Traxion)</strong>, structuring scalable credit ledgers.</li>
-    <li><strong>Profit-Oriented AI:</strong> Architecting autonomous agent workflows to automate fleet decision-making, reducing operational overhead and identifying high-margin routing opportunities.</li>
-    <li><strong>Long-term Strategy:</strong> Implementing a scalable Lakehouse architecture for predictive maintenance insights designed to prevent multi-million peso operational losses.</li>
-  </ul>
-</div>
-
-<div class="exec-role">
-  <div class="exec-role__header">
     <h3 class="exec-role__title">Global SMB Senior Data Manager &mdash; <span class="exec-role__company">PayPal</span></h3>
-    <span class="exec-role__meta">Jan 2023 &ndash; Dec 2024</span>
+    <span class="exec-role__meta">Jan 2023 &ndash; Present</span>
   </div>
   <ul>
     <li><strong>Operational Execution:</strong> Led the global orchestration of reference data for millions of SMBs, mitigating technical debt and architectural risks during aggressive growth phases.</li>

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francisco Romero"
 title_separator          : "-"
 name                     : &name "Francisco Romero"
-description              : &description "Data Platform & AI Strategy Director | Ph.D."
+description              : &description "Global SMB Senior Data Manager | Data, Risk & AI Strategy | Ph.D."
 url                      : https://fraroco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fraroco/fraroco.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Francisco Romero"
   avatar           : "profile.jpg"
-  bio              : "Data Platform & AI Strategy Director | Ph.D. | SNI Member"
+  bio              : "Global SMB Senior Data Manager at PayPal | Ph.D. | SNI Member"
   location         : "Mexico City, Mexico"
   employer         :
   googlescholar    : "https://scholar.google.com.mx/citations?user=3PvnDYEAAAAJ&hl=en"
