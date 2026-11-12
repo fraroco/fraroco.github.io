@@ -1,34 +1,47 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "Data Platform & AI Strategy Director | Business, Data & Risk Leadership"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div style="text-align: justify" markdown="1">
+<div class="exec-hero">
+  <div class="exec-hero__eyebrow">Data Platform &amp; AI Strategy Director &bull; SNI Member</div>
+  <h1 class="exec-hero__title">Bridging Data Architecture, Risk Management &amp; Executive Strategy</h1>
+  <p class="exec-hero__lead">
+    Strategic leader with 12+ years of experience architecting scalable data ecosystems across fintech, logistics, and global e-commerce. Proven track record of transforming raw data into automated decision engines, mitigating operational and credit risk, and deploying Agentic AI to drive measurable profitability.
+  </p>
+</div>
 
-## Executive Profile
+## Core Value Pillars
 
-Strategic leader at the intersection of **Data, Technology, and Risk Management** with **12+ years of experience** architecting scalable data ecosystems across fintech, logistics, and global e-commerce. Proven track record of transforming raw data into automated decision engines, mitigating operational risk, and deploying **Agentic AI** to drive profitability. Adept at bridging the gap between deep technical engineering and C-suite business objectives to lead multi-functional teams through complex digital transformations.
+<div class="exec-pillars">
+  <div class="exec-pillar">
+    <h3 class="exec-pillar__title">Strategic Project Orchestration</h3>
+    <p class="exec-pillar__desc">Leading multi-functional squads to execute complex <em>de novo</em> platform builds from 0-to-1 with 99.9% operational availability.</p>
+  </div>
+  <div class="exec-pillar">
+    <h3 class="exec-pillar__title">Operational Risk &amp; Tech Convergence</h3>
+    <p class="exec-pillar__desc">Mitigating systemic risk and automating credit underwriting and ledgers through unified data structures and governance.</p>
+  </div>
+  <div class="exec-pillar">
+    <h3 class="exec-pillar__title">Revenue-Driven Analytics</h3>
+    <p class="exec-pillar__desc">Designing predictive models and portfolio optimization frameworks that reduce NPLs, accelerate Time-to-Yes, and expand margins.</p>
+  </div>
+  <div class="exec-pillar">
+    <h3 class="exec-pillar__title">AI-Centric Leadership</h3>
+    <p class="exec-pillar__desc">Deploying autonomous Agentic workflows and LLM orchestration to automate fleet, risk, and enterprise operations.</p>
+  </div>
+</div>
 
-Currently serving as **Data Platform & AI Strategy Director** at **Traxion / Kamina** (Mexico City), and recognized as a **Member of the National System of Investigators (SNI)**.
+## Current Leadership
 
-## Core Competencies
+At **Traxion / Kamina**, I serve as a founding team member and **Data Platform & AI Strategy Director**, driving Mexico's transport logistics modernization with an end-to-end SaaS platform covering dispatch, billing, reconciliation, and proprietary-data-backed freight credit solutions. Previously, I led global SMB data orchestration and AI governance at **PayPal**, automated credit risk pipelines at **Credijusto / Covalto**, scaled supply-chain analytics at **Cornershop by Uber**, and directed portfolio optimization with **MIT** at **Arca Continental**.
 
-* **Strategic Project Orchestration:** Leading multi-functional squads to execute complex *de novo* platform builds.
-* **Operational Risk & Tech Convergence:** Mitigating systemic risk and automating credit underwriting through unified data structures and scalable technology.
-* **Revenue-Driven Analytics:** Generating long-term insights that optimize portfolios and increase profit margins.
-* **AI-Centric Leadership:** Implementing Agentic workflows and LLM orchestration to automate business operations.
-
-## Explore My Profile
-
-* **Industry & Leadership:** View my full [Curriculum Vitae & Work Experience](/cv/)
-* **Academic & Research Track:**
-  * [Publications](/publications/){:target="_blank" rel="noopener noreferrer"} (opens in a new tab)
-  * [Talks & Presentations](/talks/){:target="_blank" rel="noopener noreferrer"} (opens in a new tab)
-  * [Teaching](/teaching/){:target="_blank" rel="noopener noreferrer"} (opens in a new tab)
-
+<div class="exec-cta-bar">
+  <a href="/cv/" class="exec-btn exec-btn--primary">View Executive CV &amp; Experience</a>
+  <a href="https://www.linkedin.com/in/fraroco/" target="_blank" rel="noopener noreferrer" class="exec-btn exec-btn--secondary">Connect on LinkedIn</a>
 </div>

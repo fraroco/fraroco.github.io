@@ -5,12 +5,15 @@ main:
 
   - title: "Publications"
     url: /publications/
+    new_tab: true
 
   - title: "Talks"
     url: /talks/
+    new_tab: true
 
   - title: "Teaching"
     url: /teaching/
+    new_tab: true
 
 #  - title: "Portfolio"
 #    url: /portfolio/
