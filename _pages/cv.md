@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculim Vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,131 +9,79 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: justify">
-  <div markdown = "1">
+<div style="text-align: justify" markdown="1">
 
-Education
-======
-* _Ph. D._ in Sciences, December 2018 <br/>
-Universidad Nacional Autónoma de México <br/>
-Concentration in genomic data wrangling, analysis, and interpretation for sperm-specific proteins involved in fertilization <br/>
-Relevant Coursework: Advanced R and Statistical analysis, Statistics, Parallel and Programming optimization, Data interpretation and reproducibility
+## Executive Profile
 
-* _M. Sc._, in Sciences, 2012 <br/>
-Universidad Nacional Autónoma de México <br/>
-Concentration in genomic data wrangling, analysis, and interpretation for sperm-specific proteins involved in fertilization <br/>
-Relevant Coursework: Python programming and Statistics <br/>
+**Francisco Romero Corpus, Ph.D.** — *Data Platform & AI Strategy Director* | *Member of the National System of Investigators (SNI)*
 
-* _B. Sc._ in Sciences, 2009 <br/>
-Universidad Autónoma del Estado de Morelos <br/>
-Relevant Coursework: Mathematics, Physics and programming <br/>
+Strategic leader at the intersection of Data, Technology, and Risk Management with 12+ years of experience architecting scalable data ecosystems across fintech, logistics, and global e-commerce. Proven track record of transforming raw data into automated decision engines, mitigating operational risk, and deploying Agentic AI to drive profitability.
 
-Work experience
-======
+## Professional Experience
 
-* Data Scientist and Data Engineer, _Bank Covalto (Before Credijusto)_. Ciudad de México, México. April 2021 - present
-  * **Tools and Languages: Python, GCP, git, SQL**
-  * Models implementation from decision science team
-  * Main activities in the role: **Managing the process from business decision science to the code implantation squad, in order to deployed the models in to production.**
+### **Traxion / Kamina** — *Data Platform & AI Strategy Director*
+*Jan 2025 – Present | Mexico City, Mexico*
 
-* Operational Data Analyst Leader, _Cornershop by Uber_. Ciudad de México, México. March 2020 - April 2021
-  * **Tools and Languages: OracleSQL, Pyhton, Tableau, Looker**
-  * Generation the major pilots on Mexico City, to reduce time, shopper costs and bags usage.
-  * Generation of reports for principal OKRs for shopper operation.
-  * Main activities in the role: **Managing data analyst, supervasing data integration and data quality, also interpreting the data and results in order to make some operational decisions.**
+* Founding team member and data director of **Kamina**, modernizing transport logistics in Mexico with an end-to-end platform covering dispatch through billing and reconciliation. Drove the platform from 0-to-1, providing real-time visibility, control, and documentation of field operations, and launched a customized credit solution for freight transport companies leveraging proprietary data.
+* **Complex Project Orchestration:** Directing the strategic design and execution of the corporate data core, ensuring 99.9% availability for critical SaaS-based logistics operations and *de novo* CMS creation.
+* **End-to-End Fintech Architecture:** Managed the comprehensive data platform and credit framework architecture for key fintech initiatives (**Kamina / Traxion**), structuring scalable credit ledgers.
+* **Profit-Oriented AI:** Architecting autonomous agent workflows to automate fleet decision-making, directly reducing operational overhead and identifying high-margin routing opportunities.
+* **Long-term Strategy:** Implementing a scalable Lakehouse architecture for predictive maintenance insights designed to prevent multi-million peso operational losses.
 
-* Data Scientist, _Arca Continental_, Monterrey. Nuevo León. México. January 2019 - March 2020
-  * **Tools and Languages: Scala, SQL, Spark, sparkR, pySpark, Azure DevOs, TFS, Delta.**
-  * Leading the main project about portfolio optimization in collaboration with the Massachusetts Institute of Technology.
-  * Modeling documentation to answer the fundamental question, analyzing the data and collecting important information.
-  * Coordinating the development of the pilot and creating the key performance indicators for further evaluation.
-  * Main activities in the role: **Data profiling, Data integration, Data importation, and Data interpretation, developing analytic technologies, including machine learning and predictive modeling.**
+### **PayPal** — *Global SMB Senior Data Manager*
+*Jan 2023 – Dec 2024*
 
-* Doctoral stay,_Molecular and Genomic Evolution Laboratory, Ecology and Evolutionary Biology Department, University of Michigan_, Ann Arbor, MI. May - July 2016
-  * **Tools and Languages: R, python, UNIX/Linux utility user, Bash scripting.**
-  * Evolutionary analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa and non-Metazoa species.
-  * Pseudogenization analysis of the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger of mouse.
-  * Coevolution analysis between the sperm-specific Na<sup>+</sup>/H<sup>+</sup> exchanger and the soluble adenylyl cyclase of Metazoa species.
+* **Operational Execution:** Led the global orchestration of reference data for millions of SMBs, ensuring technical debt and architectural risks were mitigated during aggressive growth phases.
+* **Strategic Insights:** Generated data models enabling a deeper understanding of merchant lifecycles, driving long-term revenue growth through personalized payment solution offerings.
+* **Risk & Compliance:** Partnered with IT Architecture and Global Compliance to build an AI-driven governance framework, reducing data silos and ensuring global scalability.
 
-* _Secretaría de Educación Pública_ Mexico City, Mexico. Aug 2010 – Dec 2010
-  * Reviewing the contents of textbooks Sciences III with emphasis in Chemistry for high school.
-  * Deliverying reports in which the review process as well as the attachment of different books to study programs of the SEP (Secretaría de Educación Pública) and the 385 agreement detailing.
+### **Credijusto / Covalto** — *Data Science Manager (Execution Focus)*
+*Apr 2021 – Dec 2022 | Mexico City, Mexico*
 
-Skills
-======
+* **Risk-Centric Operation:** Orchestrated the deployment of risk scoring and origination models into production-grade pipelines, directly impacting the reduction of non-performing loans (NPLs).
+* **Business Impact:** Transformed raw financial data into an automated decision engine, accelerating underwriting speed while enforcing strict risk parameters, increasing portfolio profitability and reducing Time-to-Yes.
 
-* _Computer skills:_
-  * Bash scripting
-  * UNIX/Linux utility user
-  * Databricks.
-  * **Programming languages: R, Python, Scala, SPARK, SQL and git**
-  TFS
-  * IDEs: Microsoft azure, AWS, Gitkraken, VisualStudio
+### **Cornershop by Uber** — *Operational Data Analytics Leader*
+*Mar 2020 – Apr 2021 | Mexico City, Mexico*
 
-* _Statistical skills:_
-  * Parametric and non-parametric statistics
-  * Statistical test like Type I error, Type II error,  ANOVA, etc
-  * A/B test, logistic regression, random forest, etc
-  * **Data Analysis: Clustering, significance data determination, quality data determination etc**
+* **Operational Optimization:** Led complex data initiatives to optimize supply-chain logistics during the COVID-19 surge, identifying cost-saving insights in shopper allocation and bag usage.
+* **Strategic Execution:** Balanced real-time operational needs with long-term data quality projects, ensuring the platform could scale without compromising delivery margins.
 
-Awards
-======
-  * Banco Santander - TrepCamp 2014 award
-  * Falling walls Berlin 2016 award
-  * Sistema Nacional de Investigadores - CONACYT 2019
+### **Arca Continental** — *Data Scientist / Project Lead*
+*Jan 2019 – Mar 2020 | Monterrey, Nuevo León, Mexico*
 
-Principal training
-======
-* **Certification in Customer/Partner Introductory Learning**. Databricks Academy. 2020.
-* **Cloud Computing.** Google Active. 2020.
-* **Diploma in financial education**. Comisión nacional para la protección y defensa de los usuarios de servicios financieros. December 2019.
-* **Data science: Probability**. Harvard University. September 2019.
-* **Course of “Advance R focused on Bioconductor”**. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2018.
-* **Advance course of high level computational skill in parallelization and optimization in programming “Escuela de computación de alto rendimiento”**. Buenos Aires Argentina. August 2016.
-* **Course of “Galaxy: RNA seq and Chip seq”**. Talleres de bioinformática. Universidad Nacional Autónoma de México. August 2016.
-* **Theoretical symposium on “Bioinformatics”**. Secretaría de Ciencia e Innovación tecnológica.  Estado de Morelos. 2016.
-* **A theoretical and practical course in Python**. Universidad Nacional Autónoma de México. August 2016.
+* **Revenue Generation:** Executed a high-complexity portfolio optimization project with **MIT**, impacting 250k+ retail points.
+* **Long-term Value:** Created predictive models integrating internal and external data, generating actionable insights for product placement that directly boosted sales and optimized inventory turnover.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+---
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Technical & Strategic Stack
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Business Strategy & Risk:** OKR & KPI Governance, Financial Risk Modeling, Executive Stakeholder Alignment, Enterprise Innovation Strategy.
+* **Execution & Automation Tools:** AI Orchestration & Agentic Pipelines, Data and Infrastructure as Code.
+* **Platform Architecture:** Enterprise Cloud Data Warehousing and Lakehouse Architectures.
+* **Core Engineering:** API-led Connectivity, GraphQL, Distributed Systems Architecture, End-to-End Data Platforms, Python, R, Scala, Spark, SQL, Git.
 
-Service and leadership
-======
-* Currently signed in to 4 different slack teams
-  * Bioc-community
-  * Bioinformatic software development community
-  * Hobby projects with friends
-  * Personal projects
+---
 
-Additional training
-======
+## Education & Recognition
 
-* Resident as student the in simulation in silico laboratory. Dra. Nina Pastor. Universidad Autónoma del Estado de Morelos. January-May 2006.
-* English course for Kent University. Summer 2006
-* Theoretical-practical workshop of Molecular Biology. Universidad Autónoma del Estado de Morelos, Morelos-México. Summer 2006.
-* Theoretical-practical workshop of Biochemistry. Universidad Nacional Autónoma de México, Morelos-México. Summer 2006.
-* Theoretical-practical Workshop of Genetics. Universidad Autónoma del Estado de Morelos, Morelos-México. Winter, 2006
-* Theoretical-practical workshop Cellular Biology. Instituto de Biotecnología. Universidad Nacional Autónoma de México. Morelos-México. January-July 2007.
-* Theoretical-practical International course “Cautivery reproduction: An alternative for the preservation of ornamental and birds”. Universidad Autónoma del Estado de Morelos, Morelos-México. August 2008.
-* Theoretical-practical workshop  of Developmental Biology. Instituto de Biotecnología. Universidad Nacional Autónoma de México. Morelos-México. Summer 2008.
-* Japan-Mexico workshop on "Pharmacobiology" and "Nanobiology". Universidad Nacional Autónoma de México, Ciudad de México-México. 25-27 February 2008.
-* Theoretical-practical workshop of Advanced microscopy. Universidad Nacional Autónoma de México. Enero-Febrero 2010.
-* Course theoretical-practical of simFCS. Universidad Nacional Autónoma de México. May 2014.
-* Advance course of entrepreneurship TrepCamp. Silicon-Valley California. Summer 2014.
-  </div>
+* **Ph.D. in Sciences** — Universidad Nacional Autónoma de México (UNAM), 2018. *Focus:* Rigorous quantitative analysis, genomic data wrangling, and applied data-driven methodologies.
+* **M.Sc. in Sciences** — Universidad Nacional Autónoma de México (UNAM), 2012. *Focus:* Quantitative analysis and applied data-driven methodologies.
+* **B.Sc. in Sciences** — Universidad Autónoma del Estado de Morelos (UAEM), 2009. *Relevant Coursework:* Mathematics, Physics, and Programming.
+* **Doctoral Research Stay** — Molecular and Genomic Evolution Laboratory, University of Michigan (Ann Arbor, MI), May – Jul 2016.
+* **SNI Distinguished Member:** Awarded national recognition (*Sistema Nacional de Investigadores*, CONACYT) for excellence in advanced data research.
+* **Banco Santander Innovation Laureate:** Recipient of the TrepCamp Innovation Award (2014) for demonstrating entrepreneurial and strategic vision.
+* **Falling Walls Berlin Award** (2016).
+
+---
+
+## Academic Profile (Separate Windows)
+
+To keep the professional CV focused while preserving my academic background, research outputs are maintained in dedicated sections:
+
+* [Publications](/publications/){:target="_blank" rel="noopener noreferrer"} — Peer-reviewed articles and PDFs
+* [Talks & Presentations](/talks/){:target="_blank" rel="noopener noreferrer"} — Conference proceedings and invited talks
+* [Teaching](/teaching/){:target="_blank" rel="noopener noreferrer"} — Courses and workshops at UNAM
+
 </div>
